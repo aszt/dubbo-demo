@@ -1,2 +1,2 @@
 # dubbo-demo
-dubbo学习小案例
+dubbo综合案例
